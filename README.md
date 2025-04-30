@@ -1,1 +1,1 @@
-# training SAP HANA 2.o
+# training SAP HANA
