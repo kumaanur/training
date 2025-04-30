@@ -1,0 +1,1 @@
+# training SAP HANA
